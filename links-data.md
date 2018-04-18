@@ -1,4 +1,4 @@
-**NLP**
+# NLP
 
 [Easy Natural Language Processing (NLP) in Python](http://www.gadgeteur.com/2018/04/16/easy-natural-language-processing-nlp-in-python/)
 
@@ -13,7 +13,7 @@
 [Introduction to Natural Language Processing (NLP)](https://www-csli.stanford.edu/events/introduction-natural-language-processing-nlp-python)
 
 
-**Linguistic**
+# Linguistic
 
 [Word movers distance gensim](http://www.akalinun.com/qoviur/tonire.php?clo=word-movers-distance-gensim)
 
@@ -22,7 +22,7 @@
 [Use LSI Keywords in your Content](http://www.mindfulseo.com/use-lsi-keywords-in-your-content)
 
 
-**Web scraping**
+# Web scraping
 
 [How to scrape data from a website in 10 lines using Beautiful Soup](http://city-informatics.com/how-to-scrape-data-from-a-website-in-less-than-10-lines-using-beautiful-soup-and-python/)
 
@@ -31,39 +31,39 @@
 [Best Programming Languages for Web Scraping](https://owlcation.com/stem/Best-Programming-Languages-for-Web-Scraping)
 
 
-**Sentiment Analysis**
+# Sentiment Analysis
 
 [Understanding What is Behind Sentiment Analysis](https://www.kdnuggets.com/2018/04/understanding-behind-sentiment-analysis-part-1.html)
 
 [Social Sentiment and Its Importance to Brands](https://www.thebalance.com/what-is-social-sentiment-and-why-is-it-important-3960082)
 
 
-**Scholar**
+# Scholar
 
 [Sentiment Analysis](http://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sentiment_analysis)
 
 
-**Visualization**
+# Visualization
 
 [Python for ecologists: Making Plots With ggplot](http://www.datacarpentry.org/python-ecology-lesson/06-visualization-ggplot-python/)
 
 
-**Keyword**
+# Keyword
 
 [How To Do Keyword Research In Only 2 Steps](http://www.bigapplemedia.com/how-to-do-keyword-research-in-only-2-steps/)
 
 
-**GIT**
+# GIT
 
 [fifa-FUT-Data: Web-scraping script](https://github.com/kafagy/fifa-FUT-Data) 
 
 
-**YouTube**
+# YouTube
 
 [Python web scraping tutorial](http://www.youtube.com/playlist?list=PLWQYfqlWGbjrB23LFPcuLpW3LAXo76wub)
 
 
-**Other**
+# Other
 
 [A Beginner's Guide to Supervised Learning](https://deeplearning4j.org/supervised-learning.html)
 
